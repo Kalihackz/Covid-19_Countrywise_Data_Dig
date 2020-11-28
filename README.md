@@ -12,3 +12,5 @@ This API is basically made up of two parts :
 Requirements : Need some modules for python : ◆ BeautifulSoup
                                               ◆ json
                                               ◆ requests
+
+Link of API [Json File] : http://www.kalihackz.tech/covidcountrydata/
