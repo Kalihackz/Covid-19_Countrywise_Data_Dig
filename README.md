@@ -40,3 +40,8 @@ Need some modules for python :
 * json - `Comes pre-installed with python3`
 * requests - `pip install requests`
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+## SCREENSHOT OF THE JSON :
+
+![Screenshot Of Covid-19_Data_API: Tue Dec 15 08:35:36 PM](https://i.imgur.com/bdVBQVw.png)
