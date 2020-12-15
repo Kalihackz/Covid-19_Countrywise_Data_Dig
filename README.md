@@ -7,8 +7,15 @@ This API is basically made up of two parts :
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+## DOMAIN & IP INFO :
+
 ## ` LINK : http://www.kalihackz.tech/covidcountrydata/ `
-### Link of API [Json File] : *http://www.kalihackz.tech/covidcountrydata/*
+` Link of API [Json File] :` *http://www.kalihackz.tech/covidcountrydata/*
+
+### ` IP : 40.88.137.55` 
+#### ` PORT : 7000 ` => `[Actually port 80 is portforwarded to port 7000]` 
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,8 +24,8 @@ This API is basically made up of two parts :
 
 Language | Usage
 -------- | -------
-Python | Is used for Web Scrapping or Digging up datas from other websites.Then is used for making a JSON file from the collected datas.Version : 3.8.0 above
-Node JS | Is used for hosting the JSON file as API for other purposes.Version : 14.8.0 above
+`Python` | *Is used for Web Scrapping or Digging up datas from other websites.Then is used for making a JSON file from the collected datas.Version : 3.8.0 above*
+`Node JS` | *Is used for hosting the JSON file as API for other purposes.Version : 14.8.0 above*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
