@@ -4,6 +4,9 @@
 This is an API for fetching the recent Covid-19 data regarding the total cases, country-wise,till date of most 
 of the countries/other.
 This API is basically made up of two parts :
+* Python
+* Node JS
+
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------
 
