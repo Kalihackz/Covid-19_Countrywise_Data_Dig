@@ -12,8 +12,8 @@ This API is basically made up of two parts :
 
 ## DOMAIN & IP INFO :
 
-## ` LINK : http://www.kalihackz.tech/covidcountrydata/ `
-` Link of API [Json File] :` *http://www.kalihackz.tech/covidcountrydata/*
+## ` LINK : http://www.kalihackz.tech/kalihackz/covidcountrydata/ `
+` Link of API [Json File] :` *http://www.kalihackz.tech/kalihackz/covidcountrydata/*
 
 ### ` IP : 40.88.137.55` 
 #### ` PORT : 7000 ` => `[Actually port 80 is portforwarded to port 7000]` 
