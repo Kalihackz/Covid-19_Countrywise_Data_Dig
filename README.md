@@ -42,6 +42,6 @@ Need some modules for python :
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-## SCREENSHOT OF THE JSON :
+<img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=SCREENSHOT+OF+THE+JSON" />
 
 ![Screenshot Of Covid-19_Data_API: Tue Dec 15 08:35:36 PM](https://i.imgur.com/bdVBQVw.png)
