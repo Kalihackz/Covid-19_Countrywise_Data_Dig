@@ -27,8 +27,8 @@ This API is basically made up of two parts :
 
 Language | Usage
 -------- | -------
-`Python` | *Is used for Web Scrapping or Digging up datas from other websites.Then is used for making a JSON file from the collected datas.Version : 3.8.0 above*
-`Node JS` | *Is used for hosting the JSON file as API for other purposes.Version : 14.8.0 above*
+<img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> `Python` | *Is used for Web Scrapping or Digging up datas from other websites.Then is used for making a JSON file from the collected datas.Version : 3.8.0 above*
+<img width="40px" src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667"> `Node JS` | *Is used for hosting the JSON file as API for other purposes.Version : 14.8.0 above*
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
