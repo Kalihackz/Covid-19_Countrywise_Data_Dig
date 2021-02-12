@@ -9,8 +9,7 @@ This API is basically made up of two parts :
 
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-## DOMAIN & IP INFO :
+<img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=DOMAIN+AND+INFO" />
 
 ## ` LINK : http://www.kalihackz.tech/kalihackz/covidcountrydata/ `
 ` Link of API [Json File] :` *http://www.kalihackz.tech/kalihackz/covidcountrydata/*
@@ -21,8 +20,8 @@ This API is basically made up of two parts :
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=TECHNOLOGIES+USED" />
 
-## TECHNOLOGIES USED : 
 ### [Mostly Back-End . Only the end result that is a **JSON** file is shown as viewable part on browser.It is basically used as API]
 
 Language | Usage
@@ -32,7 +31,8 @@ Language | Usage
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-## REQUIREMENTS FOR PYTHON : 
+<img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=REQUIREMENTS+FOR+PYTHON" />
+
 
 Need some modules for python : 
 
