@@ -11,7 +11,7 @@ This API is basically made up of two parts :
 ---------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://via.placeholder.com/1270x120/0d1117/BFFF00?text=DOMAIN+AND+INFO" />
 
-<img alt="link:http://www.kalihackz.tech/kalihackz/covidcountrydata/" src="https://img.shields.io/static/v1?label=Link:&message=http://www.kalihackz.tech/kalihackz/covidcountrydata/&color=blue&labelColor=blueviolet" />
+<img alt="link:http://www.kalihackz.tech/kalihackz/covidcountrydata/" src="https://img.shields.io/static/v1?label=Link:&message=http://www.kalihackz.tech/kalihackz/covidcountrydata/&color=blue&labelColor=blueviolet&style=for-the-badge" />
 <img alt="IP:40.88.137.55" src="https://img.shields.io/static/v1?label=IP:&message=40.88.137.55&color=blue&labelColor=blueviolet" />
 <img alt="PORT:7000" src="https://img.shields.io/static/v1?label=PORT:&message=7000%20[Actually%20port%2080%20is%20portforwarded%20to%20port%207000]&color=blue&labelColor=blueviolet" />
 
