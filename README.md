@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1270x70/0d1117/fffff?text=Covid-19+Countrywise+Data+Dig" />
+<img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=Covid-19+Countrywise+Data+Dig" />
 
 ``` html
 This is an API for fetching the recent Covid-19 data regarding the total cases, country-wise,till date of most 
